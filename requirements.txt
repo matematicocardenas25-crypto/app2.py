@@ -1,0 +1,6 @@
+streamlit
+pix2tex
+python-docx
+matplotlib
+PyGithub
+Pillow
